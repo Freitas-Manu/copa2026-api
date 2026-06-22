@@ -1,8 +1,18 @@
 [
   {"id": "1", "grupo": "A", "selecao": "Brasil", "bandeira": "https://flagcdn.com/w160/br.png"},
   {"id": "2", "grupo": "A", "selecao": "Argentina", "bandeira": "https://flagcdn.com/w160/ar.png"},
-  {"id": "3", "grupo": "B", "selecao": "França", "bandeira": "https://flagcdn.com/w160/fr.png"},
-  {"id": "4", "grupo": "B", "selecao": "Alemanha", "bandeira": "https://flagcdn.com/w160/de.png"},
-  {"id": "5", "grupo": "C", "selecao": "Portugal", "bandeira": "https://flagcdn.com/w160/pt.png"},
-  {"id": "6", "grupo": "C", "selecao": "Espanha", "bandeira": "https://flagcdn.com/w160/es.png"}
+  {"id": "3", "grupo": "A", "selecao": "México", "bandeira": "https://flagcdn.com/w160/mx.png"},
+  {"id": "4", "grupo": "A", "selecao": "Canadá", "bandeira": "https://flagcdn.com/w160/ca.png"},
+  {"id": "5", "grupo": "B", "selecao": "França", "bandeira": "https://flagcdn.com/w160/fr.png"},
+  {"id": "6", "grupo": "B", "selecao": "Alemanha", "bandeira": "https://flagcdn.com/w160/de.png"},
+  {"id": "7", "grupo": "B", "selecao": "Bélgica", "bandeira": "https://flagcdn.com/w160/be.png"},
+  {"id": "8", "grupo": "B", "selecao": "Croácia", "bandeira": "https://flagcdn.com/w160/hr.png"},
+  {"id": "9", "grupo": "C", "selecao": "Portugal", "bandeira": "https://flagcdn.com/w160/pt.png"},
+  {"id": "10", "grupo": "C", "selecao": "Espanha", "bandeira": "https://flagcdn.com/w160/es.png"},
+  {"id": "11", "grupo": "C", "selecao": "Holanda", "bandeira": "https://flagcdn.com/w160/nl.png"},
+  {"id": "12", "grupo": "C", "selecao": "Inglaterra", "bandeira": "https://flagcdn.com/w160/gb-eng.png"},
+  {"id": "13", "grupo": "D", "selecao": "Japão", "bandeira": "https://flagcdn.com/w160/jp.png"},
+  {"id": "14", "grupo": "D", "selecao": "Coreia do Sul", "bandeira": "https://flagcdn.com/w160/kr.png"},
+  {"id": "15", "grupo": "D", "selecao": "Marrocos", "bandeira": "https://flagcdn.com/w160/ma.png"},
+  {"id": "16", "grupo": "D", "selecao": "Senegal", "bandeira": "https://flagcdn.com/w160/sn.png"}
 ]
